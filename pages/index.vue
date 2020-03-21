@@ -4,7 +4,7 @@
       <logo />
       <h1 class="title">
         nuxt-app
-        <nuxt-link to="/page">关于</nuxt-link>
+        <nuxt-link to="/page" prefetch>关于</nuxt-link>
       </h1>
       <h2 class="subtitle">
         My cat&#39;s pajamas Nuxt.js project
