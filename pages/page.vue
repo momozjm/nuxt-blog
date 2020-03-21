@@ -3,8 +3,7 @@
     <div>
       <logo />
       <h1 class="title">
-        nuxt-app
-        <nuxt-link to="/page">关于</nuxt-link>
+        啊实打实大所打算大傻傻的
       </h1>
       <h2 class="subtitle">
         My cat&#39;s pajamas Nuxt.js project
