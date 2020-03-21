@@ -65,6 +65,7 @@ export default {
     base: './'
   },
   generate: {
-    dir: 'docs'
+    dir: 'docs',
+    subFolders: false
   }
 }
